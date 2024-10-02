@@ -3,7 +3,7 @@
 ## 1. Dataset Description
 This dataset contains posts scraped from the subreddit `/r/mentalhealth`, using the Reddit API via Python's PRAW library. Each post provides insights into discussions around mental health, making it a valuable resource for classification tasks related to mental health topics. 
 
-- **Number of Posts**: 2000
+- **Number of Posts**: 1500
 - **Date of Collection**: September 29, 2024
 - **Source**: Subreddit `/r/mentalhealth`
 
