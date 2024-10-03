@@ -19,7 +19,7 @@ This dataset contains posts scraped from the subreddit `/r/mentalhealth`, using 
 ## 2. Data Collection Method
 The data was collected using Python and the Reddit API (via the PRAW library). Filters were applied to ensure the relevance and length of posts, allowing for more meaningful classification:
 - Only posts that were of sufficient length to support classification were included.
-- Posts with a minimum of 8 comments were selected, prioritizing those that engaged more community responses.
+- Posts with a minimum of 4 comments were selected, prioritizing those that engaged more community responses.
 
 ## 3. Dataset Format
 The dataset is stored in CSV format. Each row represents a single post from the subreddit. The following fields are included:
