@@ -28,3 +28,6 @@ The dataset is stored in CSV format. Each row represents a single post from the 
 
 ## 5. Potential Missing Data
 There may be some posts with incomplete data (e.g., posts with low engagement or short, irrelevant content). These posts were filtered out during the data collection process to ensure higher-quality samples for classification.
+
+## License
+This dataset is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt the dataset for non-commercial purposes, as long as you give appropriate credit and distribute any contributions under the same license.
