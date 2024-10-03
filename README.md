@@ -1,5 +1,14 @@
 # README: Mental Health Subreddit Post Dataset
 
+## Dataset
+
+The dataset for this project is available as a Google Sheet. You can access it using the following link:
+
+[Google Sheet: Mental Health Conversations Dataset](https://docs.google.com/spreadsheets/d/1PvI5Q3FyT1G13OUsdSh88GOpAlKR3yORSXsxyM1MArY/edit?usp=sharing)
+
+Please ensure that you have the appropriate permissions to view the dataset.
+
+
 ## 1. Dataset Description
 This dataset contains posts scraped from the subreddit `/r/mentalhealth`, using the Reddit API via Python's PRAW library. Each post provides insights into discussions around mental health, making it a valuable resource for classification tasks related to mental health topics. 
 
